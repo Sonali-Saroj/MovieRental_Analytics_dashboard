@@ -45,7 +45,7 @@ This provides a solid foundation for analyzing trends, preferences, and operatio
 
 ---
 
-## 📸 Visuals
+## Features
 
 | **Title** | **Description** |
 |----------|-----------------|
